@@ -15,6 +15,7 @@ Software Test Engineer Bengaluru, Karnataka
 ## Projects
 
 1. Heart Disease Exploratory Data Analysis (EDA)
+
 • Conducted in-depth analysis of a heart disease dataset using Python libraries (Pandas,
 Seaborn, Matplotlib).
 • Visualized data distributions and relationships with various plots: DistPlot for age
@@ -27,6 +28,7 @@ the gender disparity in heart disease risk (higher prevalence in males).
 and hypothesis testing.
 
 2. GDP Analysis
+
 • Conducted a detailed analysis of global GDP data using Pandas, Plotly, and NumPy to
 calculate and visualize GDP growth rates over time.
 • Analyzed trends in GDP across countries and regions, comparing key economies like
@@ -37,6 +39,7 @@ including country-specific comparisons of GDP growth.
 compared to India over the years.
 
 3. Sales Data Analysis Project
+
 • Performed in-depth sales data analysis using Excel functions (SUM, AVERAGE,
 COUNTIF, UNIQUE, SORT) to calculate total sales, average monthly sales, and identify
 high-performing products.
@@ -48,6 +51,7 @@ forecasting sales and categorizing product performance.
 sales trends and product profitability across regions and time periods.
 
 4. Superstore Sales Analysis Dashboard Project
+
 • Developed an interactive dashboard using Python and Tableau to analyze sales data
 from a fictional superstore.
 • Focused on key metrics like sales, profit, discount, and region-wise performance.
@@ -57,6 +61,7 @@ regions for business improvement.
 to inform strategic decisions.
 
 5. YouTube Scraper Project
+
 • Developed a web scraper using Selenium, BeautifulSoup, Pandas, and NumPy to
 extract video data from YouTube channels.
 • Scraped key data points such as video title, views, likes, upload date, description, and
@@ -67,6 +72,7 @@ from each video page.
 • Demonstrated skills in web scraping, data manipulation, and automation.
 
 6. Solar Irradiance Prediction
+
 • Developed predictive models to estimate solar irradiance based on meteorological
 data from the HI-SEAS weather station (September–December 2016).
 • Performed data wrangling: split date fields, extracted sunrise/sunset hours, and
@@ -78,6 +84,7 @@ transformations to prepare data for modeling.
 • Implemented XGBoost and multilayer perceptron models to predict solar radiation.
 
 7. Face Detection and Manipulation
+
 • Developed a Python application for real-time face detection and manipulation using
 OpenCV and Haar cascades.
 • Implemented techniques for detecting faces in images and videos, allowing for
@@ -88,14 +95,13 @@ integration of computer vision in practical applications.
 versatility in the field of facial recognition technology.
 
 8. Spell Checker using NLP
+
 • Developed a spell checker that utilizes Natural Language Processing (NLP) techniques
 to detect and correct spelling errors in text inputs.
 • Implemented algorithms for word comparison against a comprehensive dictionary,
 providing accurate correction suggestions.
-
 • Enhanced the tool's accuracy by integrating machine learning models for context-
 aware spell-checking.
-
 • Demonstrated practical applications in text editing and communication, emphasizing
 the significance of linguistic accuracy in various domains.
 
@@ -104,15 +110,10 @@ Languages: Python, C, C++, R
 Technologies/Frameworks: Excel, Tableau, Web Scrapping, SQL, Streamlit, Git, GitHub, VS Code, R Studio, Juypter
 
 ## Relevant Coursework
-• Data Structures
+
 • Data Analysis
 • Algorithms Analysis
 • C Programming
 • Data Visualization
 
-## Certification
-Advanced Diploma in Embedded Systems Jan, 2021 – Aug, 2021
-Emertxe
 
-Data Science Training Certification Jan, 2024 – March, 2024
-GeeksforGeeks
